@@ -1,4 +1,4 @@
-# pwc-customer-center-dashboard
+# pwc-call-center-dashboard
 Create a dashboard in Power BI that reflect all relevant key performance indicators(KPIs) and metrics from the dataset
 Develop a dashboard to analyze call center data for use in discussion with management, focusing on key performance and insight
 Used microsoft Power BI for the visualization
